@@ -1,0 +1,2 @@
+com.lanshui.common.log.service.AsyncLogService
+com.lanshui.common.log.aspect.LogAspect
